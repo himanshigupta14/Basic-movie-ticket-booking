@@ -54,31 +54,3 @@ This project is a simple web-based movie ticket booking application. It allows u
 *   **Responsive Design**: Compatible with both mobile and desktop devices for seamless usage.
     
 
-Files Included
---------------
-
-### 1\. HTML (index.html)
-
-*   **Dropdown Menu**: For selecting a movie.
-    
-*   **Seating Layout**: Interactive rows of seats for user selection.
-    
-*   **Dynamic Display**: Shows the count of selected seats and total price.
-    
-
-### 2\. CSS (style.css)
-
-*   **Modern Styling**: Clean and user-friendly design.
-    
-*   **Seating States**: Differentiates available, selected, and sold seats visually.
-    
-*   **Responsive Design**: Ensures adaptability across screen sizes.
-    
-
-### 3\. JavaScript (script.js)
-
-*   **Interactive Features**: Handles movie selection, seat toggling, and price updates.
-    
-*   **Local Storage Integration**: Saves user preferences persistently.
-    
-*   **Dynamic Updates**: Real-time adjustments as users interact with the UI.
