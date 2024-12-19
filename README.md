@@ -62,4 +62,9 @@ The application uses local storage to provide a seamless experience:
 - Selected Movie: Records the user's chosen movie and its price.
 This ensures that selections remain intact even after refreshing the page.
 
+## Future Improvements 
+-Backend Integration: To dynamically manage seat availability.
+-Payment Gateway: Allow online ticket payments.
+-Enhanced Animations: Add advanced styling for smoother interactions.
+-Multi-Theater Support: Expand the system to handle multiple theaters and showtimes.
 
