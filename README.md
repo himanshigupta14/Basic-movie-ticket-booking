@@ -1,4 +1,4 @@
-## Basic Movie Ticket Booking
+#Basic Movie Ticket Booking
 
 This project is a simple web-based movie ticket booking application. It allows users to select a movie, choose seats from an interactive seating layout, and view the total cost of selected tickets. User preferences, such as selected seats and movie choice, are saved using local storage.
 
