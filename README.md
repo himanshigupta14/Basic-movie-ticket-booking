@@ -1,4 +1,6 @@
 #   Basic Movie Ticket Booking
+
+![Basic-movie-ticket-booking](picture.png)
 ## Table of Contents
 
 ## Introduction
