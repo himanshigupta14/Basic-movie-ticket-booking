@@ -50,7 +50,16 @@ This project is a simple web-based movie ticket booking application. It allows u
    git clone https://github.com/himanshigupta14/Basic-movie-ticket-booking.git
 
 *   **Local Storage**: Remembers selected seats and movie preferences even after page reloads.
-    
 *   **Responsive Design**: Compatible with both mobile and desktop devices for seamless usage.
     
+2. open the index.html in any web
+3. Choose the movie and select seats to book them
+4. the total will update dynamically based on your selection
+
+## Local Storage 
+The application uses local storage to provide a seamless experience:
+- Selected Seats: Saves the indices of seats marked by the user.
+- Selected Movie: Records the user's chosen movie and its price.
+This ensures that selections remain intact even after refreshing the page.
+
 
